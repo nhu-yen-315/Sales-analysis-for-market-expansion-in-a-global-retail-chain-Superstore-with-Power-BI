@@ -1,3 +1,6 @@
+![image](https://github.com/user-attachments/assets/e19f6de5-2cb3-4573-a8fc-ca94cf15a911)
+
+
 # 📊 Project Title: Global Superstore sales dashboard using Power BI  
 Author: Huỳnh Như Yến  
 Date: 14/6/2025 <br>
@@ -29,6 +32,8 @@ This project analyzes sales performance and key products of Superstore, a global
 The project aims to solve questions: <br>
 ✔️ Identify markets with good sales performance <br>
 ✔️ Identify high-demand products and sales trends <br>
+
+
 ✔️ Provide actionable insights through Power BI dashboards 
 
 ### 🎯Project Outcome:  
