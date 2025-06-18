@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/e19f6de5-2cb3-4573-a8fc-ca94cf15a911)
-
-
 # 📊 Project Title: Global Superstore sales dashboard using Power BI  
 Author: Huỳnh Như Yến  
 Date: 14/6/2025 <br>
@@ -18,12 +15,12 @@ Tool Used: Power BI
 ## 📌 Background & Overview
 ### 📖 What is this project about? 
 This project analyzes sales performance and key products of Superstore, a global commercial company, in different operating markets. The objective is:
-  - identify markets with good sales performance
-  - find out key products.
+  - identify important markets
+  - identify important products.
 
 
 ### 👤 Who is this project for?  
-✔️ Senior managers who need information to make expansion decisions <br>
+✔️ Senior managers <br>
 ✔️ Data analysts & business analysts <br>
 ✔️ Recruiters
  
@@ -31,17 +28,14 @@ This project analyzes sales performance and key products of Superstore, a global
 ###  ❓Business Questions:  
 The project aims to solve questions: <br>
 ✔️ Identify markets with good sales performance <br>
-✔️ Identify high-demand products and sales trends <br>
-
-
-
+✔️ Identify key products <br>
 ✔️ Provide actionable insights through Power BI dashboards 
 
 ### 🎯Project Outcome:  
-Here are insights after the analysis:
-✔️
-✔️
-✔️
+Here are insights after the analysis: <br>
+✔️ APAC, EU and US are the top three markets of the company. <br>
+✔️ EMEA is a young and most potential market with the fastest year-over-year growth in sales. <br>
+✔️ Technological products generate the most sales and profit to the company.
 
 ---
 ## 📂 Dataset Description & Data Modeling
@@ -85,3 +79,15 @@ Key insights in 2014: <br>
 
 ---
 ## 🔎 Final Conclusion & Recommendations
+#### Key insights about good markets
+- Asia-Pacific market is the most important market to the company.
+- EMEA market is still a young market but has the highest year-over-year growth rate. <br>
+👉👉👉 The company should invest more to expand its operation in this market.
+- EU generates the second highest sales and has a strong YoY growth rate. <br>
+👉👉👉 The company should focus on exploiting the potential of this market.
+
+#### Key insights about key products
+- Technological products, especially smartphones and copiers, are the most important to the company in terms of both sales and profit.
+- Office supplies, especially bookcases, are the second important product category to the company.
+- Tables sub-category is the only one which generates a loss of $30,000. <br>
+👉👉👉 The company should consider to either improve the product quality or stop selling this sub-category.
