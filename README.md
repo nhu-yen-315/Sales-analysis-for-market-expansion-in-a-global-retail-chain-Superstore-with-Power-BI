@@ -44,11 +44,26 @@ Here are insights after the analysis:
 ✔️
 
 ---
-## 📂 Dataset Description & Data Structure
+## 📂 Dataset Description & Data Modeling
+#### Dataset Description
+Dataset belongs to Superstore which is a global commercial company operating in 7 markets: Canada, US, EU, APAC, LATAM, EMEA, Africa.
+
+Dataset includes 3 table: Orders, People and Returns:
+
+- Orders table includes transaction data. There are 20 variables. Important variables used in this project are Order ID, Order Date, Ship Mode, Segment, Country, Market, Category, Sub-category, Sales, Quantity, Profit.
+
+- People table includes data about sales managers in different regions. There are two variables: Person and Region.
+  
+- Returns table includes return data. There are two variables: Returned and Order ID. 
+
+#### Data modeling
+The custom date table is created by the author. 
+
+![image](https://github.com/user-attachments/assets/e19f6de5-2cb3-4573-a8fc-ca94cf15a911)
 
 ---
 ## 📊 Key Insights & Visualizations
-#### First page: Market performance analysis
+#### Layout 1: Sales performance analysis by market
 ![page 1_page-0001](https://github.com/user-attachments/assets/c30f0148-51e7-4ba2-b335-2d0f85f20790)
 
 Key insights in 2014: <br>
@@ -58,7 +73,15 @@ Key insights in 2014: <br>
 ✔️ Amongst 3 segments, consumer generates the highest sales in all markets while home office is the least important one. <br>
 ✔️ Amongst 3 product categories, technology contributes the largest sales in most markets. It is worth noting that APAC and LATAM have the highest proportion of sales generated from furnitures.
 
+#### Layout 2: Sales performance analysis by product
 ![page 2_page-0001](https://github.com/user-attachments/assets/83af7c77-1415-45b8-ba84-0b22165db293)
+
+Key insights in 2014: <br>
+✔️ The sales of all three categories have significantly increased in period 2011-2014. <br>
+✔️ In 2014, technology contributes the largest profit for the company. <br>
+✔️ Standard class is the most popular ship mode. <br>
+✔️ Phones, copiers and bookcases sub-categories generate the most sales for the company. <br>
+✔️ Copiers, phones and bookcases are the most profitable sub-categories.
 
 ---
 ## 🔎 Final Conclusion & Recommendations
