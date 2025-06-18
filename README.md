@@ -53,7 +53,7 @@ Dataset includes 3 table: Orders, People and Returns:
 #### Data modeling
 The custom date table is created by the author. 
 
-![image](https://github.com/user-attachments/assets/e19f6de5-2cb3-4573-a8fc-ca94cf15a911)
+![image](https://github.com/user-attachments/assets/3a823955-d06f-4354-b656-66575b5bd64b)
 
 ---
 ## 📊 Key Insights & Visualizations
