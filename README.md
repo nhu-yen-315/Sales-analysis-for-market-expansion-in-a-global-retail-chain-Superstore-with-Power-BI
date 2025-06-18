@@ -34,6 +34,7 @@ The project aims to solve questions: <br>
 ✔️ Identify high-demand products and sales trends <br>
 
 
+
 ✔️ Provide actionable insights through Power BI dashboards 
 
 ### 🎯Project Outcome:  
@@ -41,3 +42,21 @@ Here are insights after the analysis:
 ✔️
 ✔️
 ✔️
+
+---
+📂 Dataset Description & Data Structure
+
+---
+📊 Key Insights & Visualizations
+First page: Market performance analysis
+![PBI Superstore sales analysis_page-0001](https://github.com/user-attachments/assets/5a0e39fe-a493-4f11-91ee-081b9b000397)
+
+Key insights in 2014:
+✔️ The Asia-Pacific (APAC) market generates the highest sales at $1.2 millions while EU is the second biggest market with $1 millions in sales. The US is a lucratic market, generating the third largest sales at $0.7 millions.
+✔️ Even though sales in EMEA is relatively small at only 0.3M, this market experiences the fastest year-over-year growth. EU also has the second highest sales growth.
+✔️ Canada has the biggest profit margin at 26% while the sales is the smallest.
+✔️ Amongst 3 segments, consumer generates the highest sales in all markets while home office is the least important one.
+✔️ Amongst 3 product categories, technology contributes the largest sales in most markets. It is worth noting that APAC and LATAM have the highest proportion of sales generated from furnitures.
+
+---
+🔎 Final Conclusion & Recommendations
