@@ -49,7 +49,7 @@ Here are insights after the analysis:
 ---
 ## 📊 Key Insights & Visualizations
 #### First page: Market performance analysis
-![PBI Superstore sales analysis_page-0001](https://github.com/user-attachments/assets/5a0e39fe-a493-4f11-91ee-081b9b000397)
+![page 1_page-0001](https://github.com/user-attachments/assets/c30f0148-51e7-4ba2-b335-2d0f85f20790)
 
 Key insights in 2014: <br>
 ✔️ The Asia-Pacific (APAC) market generates the highest sales at $1.2 millions while EU is the second biggest market with $1 millions in sales. The US is a lucratic market, generating the third largest sales at $0.7 millions. <br>
@@ -57,6 +57,8 @@ Key insights in 2014: <br>
 ✔️ Canada has the biggest profit margin at 26% while the sales is the smallest. <br>
 ✔️ Amongst 3 segments, consumer generates the highest sales in all markets while home office is the least important one. <br>
 ✔️ Amongst 3 product categories, technology contributes the largest sales in most markets. It is worth noting that APAC and LATAM have the highest proportion of sales generated from furnitures.
+
+![page 2_page-0001](https://github.com/user-attachments/assets/83af7c77-1415-45b8-ba84-0b22165db293)
 
 ---
 ## 🔎 Final Conclusion & Recommendations
