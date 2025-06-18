@@ -6,10 +6,9 @@ Tool Used: Power BI
 ---
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
-2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)  
-3. [🧠 Design Thinking Process](#-design-thinking-process)  
-4. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
-5. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
+2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)   
+3. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
+4. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
 ---
 ## 📌 Background & Overview
@@ -51,9 +50,16 @@ Dataset includes 3 table: Orders, People and Returns:
 - Returns table includes return data. There are two variables: Returned and Order ID. 
 
 #### Data modeling
-The custom date table is created by the author. 
+The custom date table is created by the author. _Measures table is created by the author to store all measures.
 
 ![image](https://github.com/user-attachments/assets/3a823955-d06f-4354-b656-66575b5bd64b)
+
+Table relationships:
+| From: table (column) | Relationship | To: table (column) |
+|----------|----------|----------|
+| Orders (Order Date) | One-to-many | dim_date (Date) |
+| Orders (Order ID) | One-to-many | Returns (Order ID) |
+| Orders (Region) | One-to-many| People (Region) |
 
 ---
 ## 📊 Key Insights & Visualizations
