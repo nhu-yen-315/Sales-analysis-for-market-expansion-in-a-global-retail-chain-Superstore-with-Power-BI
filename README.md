@@ -1,4 +1,6 @@
-# 📊 Project Title: Global Superstore sales dashboard using Power BI  
+# 📊 Project Title: Global Superstore Sales Dashboard Using Power BI  
+![image](https://github.com/user-attachments/assets/8acc10f2-0200-4edb-b441-ab826d157508)
+
 Author: Huỳnh Như Yến  
 Date: 14/6/2025 <br>
 Tool Used: Power BI
