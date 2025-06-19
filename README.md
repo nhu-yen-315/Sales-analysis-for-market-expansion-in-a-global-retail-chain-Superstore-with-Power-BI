@@ -8,7 +8,7 @@ Tool Used: Power BI
 ---
 ## 📑 Table of Contents  
 1. [📌 Background & Overview](#-background--overview)  
-2. [📂 Dataset Description & Data Structure](#-dataset-description--data-structure)   
+2. [📂 Dataset Description & Data Modeling](#-dataset-description--data-structure)   
 3. [📊 Key Insights & Visualizations](#-key-insights--visualizations)  
 4. [🔎 Final Conclusion & Recommendations](#-final-conclusion--recommendations)
 
