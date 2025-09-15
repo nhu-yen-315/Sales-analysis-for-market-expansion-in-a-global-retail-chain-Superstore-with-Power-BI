@@ -1,4 +1,4 @@
-# 📊 Project Title: Global Superstore Sales Dashboard Using Power BI  
+# Sales analysis for market expansion in a global retail chain Superstore with Power BI
 ![image](https://github.com/user-attachments/assets/8acc10f2-0200-4edb-b441-ab826d157508)
 
 Author: Huỳnh Như Yến  
