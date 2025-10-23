@@ -71,6 +71,9 @@ Table relationships:
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1677035c-6642-432e-82df-618715aec9a6" />
 
 ### Step 2: Define northstar metric(s) and point of view
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b15039c1-1d5f-4b25-875e-04d2be2b5fa2" />
+
 ---
 ## 📊 Key Insights & Visualizations
 #### Layout 1: Sales performance analysis by market
