@@ -1,4 +1,4 @@
-# Sales analysis for market expansion in a global retail chain Superstore with Power BI
+# Sales analysis for market expansion in SuperStore, a global retail chain with Power BI
 ![image](https://github.com/user-attachments/assets/8acc10f2-0200-4edb-b441-ab826d157508)
 
 Author: Huỳnh Như Yến  
@@ -63,6 +63,13 @@ Table relationships:
 | Orders (Order ID) | One-to-many | Returns (Order ID) |
 | Orders (Region) | One-to-many| People (Region) |
 
+---
+## 3. Design thinking
+### Step 1: Empathize 5W1H
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1677035c-6642-432e-82df-618715aec9a6" />
+
+### Step 2: Define northstar metric(s) and point of view
 ---
 ## 📊 Key Insights & Visualizations
 #### Layout 1: Sales performance analysis by market
