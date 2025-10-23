@@ -1,5 +1,6 @@
 # Sales analysis for market expansion in SuperStore, a global retail chain with Power BI
-![image](https://github.com/user-attachments/assets/8acc10f2-0200-4edb-b441-ab826d157508)
+<img width="1333" height="815" alt="image" src="https://github.com/user-attachments/assets/1309e02a-3697-4164-817f-c1f04812c376" />
+
 
 Author: Huỳnh Như Yến  
 Date: 14/6/2025 <br>
