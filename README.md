@@ -74,8 +74,18 @@ Table relationships:
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b15039c1-1d5f-4b25-875e-04d2be2b5fa2" />
 
+### Step 3: Ideate
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/b35a48d0-c7fd-4693-817b-aa8200885980" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/4c3bfb56-2da2-4506-b2fb-dff0115cd215" />
+
+### Step 4: Prototype 
+<br>
+See prototype in Section 4: Visualizations & Insights
+
 ---
-## 📊 Key Insights & Visualizations
+## 📊 Visualizations & Insights
 #### Layout 1: Sales performance analysis by market
 ![page 1_page-0001](https://github.com/user-attachments/assets/c30f0148-51e7-4ba2-b335-2d0f85f20790)
 
