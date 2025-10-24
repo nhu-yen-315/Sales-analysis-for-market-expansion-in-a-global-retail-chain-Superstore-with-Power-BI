@@ -87,6 +87,7 @@ See prototype in Section 4: Visualizations & Insights
 ---
 ## 📊 Visualizations & Insights
 #### Layout 1: Sales performance analysis by market
+
 ![page 1_page-0001](https://github.com/user-attachments/assets/c30f0148-51e7-4ba2-b335-2d0f85f20790)
 
 Key insights in 2014: <br>
