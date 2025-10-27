@@ -86,35 +86,38 @@ See prototype in Section 4: Visualizations & Insights
 
 ---
 ## 📊 Visualizations & Insights
-#### Layout 1: Sales performance analysis by market
+#### Layout 1: Overview
 
-![page 1_page-0001](https://github.com/user-attachments/assets/c30f0148-51e7-4ba2-b335-2d0f85f20790)
+<img width="1067" height="616" alt="image" src="https://github.com/user-attachments/assets/19c3c8d4-e822-4c8e-ab86-72865a576c93" />
 
-Key insights in 2014: <br>
-✔️ The Asia-Pacific (APAC) market generates the highest sales at $1.2 millions while EU is the second biggest market with $1 millions in sales. The US is a lucratic market, generating the third largest sales at $0.7 millions. <br>
-✔️ Even though sales in EMEA is relatively small at only 0.3M, this market experiences the fastest year-over-year growth. EU also has the second highest sales growth. <br>
-✔️ Canada has the biggest profit margin at 26% while the sales is the smallest. <br>
-✔️ Amongst 3 segments, consumer generates the highest sales in all markets while home office is the least important one. <br>
-✔️ Amongst 3 product categories, technology contributes the largest sales in most markets. It is worth noting that APAC and LATAM have the highest proportion of sales generated from furnitures.
+Observations:
 
-#### Layout 2: Sales performance analysis by product
-![page 2_page-0001](https://github.com/user-attachments/assets/83af7c77-1415-45b8-ba84-0b22165db293)
+#### 1. Revenue and profit increased steadily
+Total revenue doubles from $2.3M in 2011 to $4.3M in 2014. 
+Profit has increased steadily by around $0.1M each year. Profit margin has steadily remained between 11% and 12%, showing that revenue is driven by higher sales volume not by enhanced operational efficiency. 
 
-Key insights in 2014: <br>
-✔️ The sales of all three categories have significantly increased in period 2011-2014. <br>
-✔️ In 2014, technology contributes the largest profit for the company. <br>
-✔️ Standard class is the most popular ship mode. <br>
-✔️ Phones, copiers and bookcases sub-categories generate the most sales for the company. <br>
-✔️ Copiers, phones and bookcases are the most profitable sub-categories.
+#### 2. Technological products contribute most to total revenue
+Among three product categories, technology has contributed most to total revenue in all years. Revenue from technology has increased from $0.8M in 2011 to $1.6M in 2014. Revenue from office supplies is the second highest in all years. Revenue from office supplies has surged from $0.8M to $1.4M during 2011-2014. Revenue from furniture has also risen steadily by around $0.1M each year, reaching $1.3M in 2014.
+
+#### 3. Consumer segment drives the highest sales
+Consumer segment has earned most revenue, accounting for around 50% of total sales. Hence, consumer segment is the most important to the company.
+
+
+#### Layout 2: Market analysis
+
+<img width="1143" height="663" alt="image" src="https://github.com/user-attachments/assets/af1e5a54-2b76-4f6f-a142-76ae7665da68" />
+
+Observations:
+
+#### Layout 3: Product analysis
+
+<img width="1148" height="658" alt="image" src="https://github.com/user-attachments/assets/0c1ac516-3b35-4210-aeb6-a85e9f753ca4" />
+
+Observations:
 
 ---
-## 🔎 Final Conclusion & Recommendations
-#### Key insights about good markets
-- Asia-Pacific market is the most important market to the company.
-- EMEA market is still a young market but has the highest year-over-year growth rate. <br>
-👉👉👉 The company should invest more to expand its operation in this market.
-- EU generates the second highest sales and has a strong YoY growth rate. <br>
-👉👉👉 The company should focus on exploiting the potential of this market.
+## 🔎 Recommendations
+
 
 #### Key insights about key products
 - Technological products, especially smartphones and copiers, are the most important to the company in terms of both sales and profit.
